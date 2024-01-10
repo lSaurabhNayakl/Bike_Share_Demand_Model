@@ -46,7 +46,7 @@ Give credit here.
 
 
 ## Contact
-Created by @lSaurabhNayakl - feel free to contact me!
+Created by [@lSaurabhNayakl](https://github.com/lSaurabhNayakl) - feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
